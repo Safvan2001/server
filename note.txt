@@ -1,0 +1,78 @@
+to create package   json file comand is -: npm init
+
+Server creation -using express
+................................
+
+to install    express -npm i express
+
+Run
+...
+node index.js
+
+Server Creation
+................
+
+1.import express
+
+
+2.create an app using express
+
+
+3.create port number   (3000) , angular(4000)
+
+
+4.create requests according to our project
+
+
+
+
+ nodemon Server
+ ...............
+
+ to install  - npm i -g nodemon
+
+
+
+
+User Authentification Using express
+.....................................
+
+
+     JWT [Json web token] token
+ .....................................
+
+
+    jsonwebtoken   -library           to install[cmd]:-npm i jsonwebtoken
+
+     sign()   -method used for generate token
+
+
+   
+  
+
+
+     Middlewares
+.......................
+
+-Middlewares have the capacity to control Server requests
+-its a function with 3 arguments (request,response,next)
+
+
+-two types
+  
+   
+    1.Application Specific Middlewares
+    2.Router Specific Middlewares
+
+
+     Solving Run-time errors in js
+    ................................
+
+
+try{
+     error causes code
+}
+
+catch{
+     solution
+}
